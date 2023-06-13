@@ -43,7 +43,7 @@
 
 
 ## Output
-![image](exp2_empd.png)
+![image](empd2.png)
 
 
 ### Name: SATHISH R
